@@ -1,4 +1,5 @@
 class Solution {
+    // best time to buy
  public int maxProfit(int[] prices) {
 int minPrice = prices[0];  
  int maxProfit = 0;       
